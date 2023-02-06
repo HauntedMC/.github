@@ -1,4 +1,4 @@
-## HauntedMC Githb
+## HauntedMC Github
 
 ### Content
 
