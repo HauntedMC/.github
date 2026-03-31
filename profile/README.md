@@ -2,6 +2,5 @@
 
 ### Content
 
-- Project Boards
-- Plugin Repositories
-- Plugin Releases & Packages
+- HauntedMC Plugin Repositories
+- Releases & Packages
