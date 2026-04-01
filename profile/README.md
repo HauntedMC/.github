@@ -22,7 +22,7 @@
 
 HauntedMC is a Dutch Minecraft network where community, gameplay, and engineering come together.
 
-This organization contains the code and infrastructure behind the HauntedMC, from shared platform services and custom Velocity or Paper plugins to deployment tooling, resource packs, and gameplay systems built specifically for the network.
+This organization contains the code and infrastructure behind HauntedMC, from shared platform services and custom Velocity or Paper plugins to deployment tooling, resource packs, and gameplay systems built specifically for the network.
 
 ## What we build
 
