@@ -54,6 +54,13 @@ This organization contains the code and infrastructure behind HauntedMC, from sh
 * **[ResourcePacks](https://github.com/HauntedMC/ResourcePacks)**  
   Custom HauntedMC resource pack assets and content.
 
+* **[FairPerks](https://github.com/HauntedMC/FairPerks)**  
+  A Paper plugin that makes EssentialsX perks like `god` and `fly` EULA friendly by enforcing fair combat and interaction limits.
+
+* **[AIlex](https://github.com/HauntedMC/AIlex)**  
+  Modern AI bots for Minecraft, designed to create more immersive and interactive server experiences.
+  
+
 ## 🛠️ Core stack
 
 <p align="left">
