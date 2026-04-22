@@ -60,6 +60,9 @@ This organization contains the code and infrastructure behind HauntedMC, from sh
 * **[AIlex](https://github.com/HauntedMC/AIlex)**  
   Modern AI bots for Minecraft, designed to create more immersive and interactive server experiences.
   
+* **[Dungeons](https://github.com/HauntedMC/Dungeons)**  
+  A high-performance dungeon instance engine for replayable PvE and PvP content.
+  
 
 ## 🛠️ Core stack
 
